@@ -1,0 +1,2 @@
+{yellow}{bold}makemehapiは以下の人々によって作られています:{/bold}{/yellow}
+{bold}Name                  GitHub アカウント{/bold}

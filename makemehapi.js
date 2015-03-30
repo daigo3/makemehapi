@@ -14,7 +14,7 @@ Workshopper({
     name : name,
     exerciseDir : fpath('./exercises/'),
     appDir : __dirname,
-    languages : ['en', 'fr'],
+    languages : ['en', 'fr', 'jp'],
     helpFile : fpath('./i18n/help/{lang}.txt'),
     menuItems : [{
         name : 'credits',
